@@ -1,0 +1,16 @@
+.home_container {
+  background-color: #eaeded;
+}
+
+.home_header {
+  text-align: center;
+  margin: 1rem 0;
+}
+
+.home {
+  display: block !important;
+}
+
+.home_main-products {
+  margin: 6rem 0;
+}
